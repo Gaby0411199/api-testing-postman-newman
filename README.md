@@ -20,3 +20,8 @@ This project demonstrates automated API testing using Postman and Newman with th
 ## ▶️ How to Run Tests
 
 ### 1. Install Newman
+## 📊 Test Report
+
+Newman execution report:
+
+![Test Report](report.png)
